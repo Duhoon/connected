@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Duhoon",
+            "request": "launch",
+            "mainClass": "Duhoon"
+        }
+    ]
+}
